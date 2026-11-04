@@ -19,6 +19,8 @@ lay out the port.
 | Item | State |
 | --- | --- |
 | Fuse present on GB202 | **measured**, 0.68x and 0.66x on two separate modes |
+| Fuse present on GB206 | **measured** on three RTX 5060 Ti, 0.547x to 0.565x across Linux and Windows, drivers 580 to 616 (#4, #6, `probe/5060ti-stock.json`) |
+| Fuse present on GB205 | **reported** on an RTX 5070, 0.52x with an independent harness (#8) |
 | Public Blackwell payload | does not exist |
 | Public Blackwell debug booter | does not exist |
 | Reference material for a port | complete, captured in `docs/` |
